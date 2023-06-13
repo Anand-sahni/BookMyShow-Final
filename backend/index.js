@@ -1,7 +1,7 @@
 const express = require("express"); 
 const app = express(); 
 const { connection } = require("./connection"); 
-import connection from './connection'
+// import connection from './connection'
 
 
 const cors = require("cors"); 
